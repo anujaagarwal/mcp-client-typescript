@@ -208,10 +208,7 @@ export const mcpServerDatabase = [
                 "description": "Update an existing GitHub issue"
             }
         ],
-        "env": {
-            "GITHUB_TOKEN": "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",
-            "GITHUB_OWNER": "anujaagarwal"
-        }
+        "env": {}
     },
     {
         "name": "EdgeOne Pages MCP",
